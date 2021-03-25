@@ -7,6 +7,7 @@
 6. [Stack vs Heap Memory Allocation](https://www.geeksforgeeks.org/stack-vs-heap-memory-allocation/)
 7. [what happens when you don’t free memory after using malloc()](https://www.geeksforgeeks.org/what-happens-when-you-dont-free-memory-after-using-malloc/)
 8. [NULL pointer in C](https://www.geeksforgeeks.org/few-bytes-on-null-pointer-in-c/)
+9. [What is Big-O Notation?](https://www.educative.io/edpresso/what-is-big-o-notation)
 
 
 ## Featured
